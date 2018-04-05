@@ -3,8 +3,6 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Features](#features)
-- [License](#license)
 
 ## Installation
 
